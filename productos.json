@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nombre": "bicleta 28",
+        "precio": 220000,
+        "descripcion": "bicicleta de carrera rodado 28, cuadro carbonico (color rojo)",
+        "img": "https://media.revistagq.com/photos/6019077496421469deb60bf7/master/w_1600%2Cc_limit/endurance_sl_red_105_disc_aksiumwheels_levelstem_frontangled_1.png"
+    },
+
+{
+        "id": 2,
+        "nombre": "bicicleta 29 suspension",
+        "precio": 210000,
+        "descripcion": "biciclta 29 con suspension, cuadro aluminio",
+        "img": "https://www.pngmart.com/files/6/Bicycle-PNG-Background-Image.png"
+    },
+
+{
+        "id": 3,
+        "nombre": "bicicleta 29 aluminio",
+        "precio": 180000,
+        "descripcion": "biciclta rodado 29, cuadro aluminio (color blaco)",
+        "img": "https://www.pngall.com/wp-content/uploads/2016/03/Bicycle-PNG-2.png"
+    },
+
+{
+        "id": 4,
+        "nombre": "bicicleta 28 carbonico",
+        "precio": 240000,
+        "descripcion": "bicicleta de carrera rodado 28, cuadro,manubrio y palancas carbonico",
+        "img": "https://www.pngall.com/wp-content/uploads/2016/03/Bicycle-PNG.png"
+    }
+]
